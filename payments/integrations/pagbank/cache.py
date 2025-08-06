@@ -1,0 +1,1 @@
+PAGBANK_OAUTH_AUTHORIZATION_COMPANY_CACHE_KEY = "pagbank_oauth_company_authorization:%s"
